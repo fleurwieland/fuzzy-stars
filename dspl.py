@@ -6,6 +6,9 @@ Authors: Fleur Wieland, Nancy Subke, Justus Holman
 Group: 1
 '''
 ##############
+'''
+TEST
+'''
 ###########################################################
 ### Imports
 import numpy as np                       # for numerical methods
